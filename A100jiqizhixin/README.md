@@ -1,3 +1,5 @@
+https://github.com/jiqizhixin/AI00
+
 ## 语音和自然语言
 思必驰: 苏州  
 竹间智能: 上海
