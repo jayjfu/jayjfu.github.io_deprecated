@@ -1,5 +1,8 @@
 https://github.com/jiqizhixin/AI00
 
+## 近期关注
+阿里达摩院
+
 ## 语音和自然语言
 思必驰: 苏州  
 竹间智能: 上海
