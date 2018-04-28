@@ -1,9 +1,12 @@
-#### for beginer
-- cs231n, wildml
+#### tools
+- pytorch/text, pytorch/examples, facebookresearch/visdom
+
+#### coding
+- tensorflow, pytorch(account)
 
 #### research
 - papernotes, arxiv-sanity
 - wechat
 
-#### coding
-- tensorflow, pytorch(account)
+#### for beginer
+- cs231n, wildml
