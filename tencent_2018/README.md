@@ -1,3 +1,3 @@
 
-#### 内网：离线安装
-- pip whl文件： https://pypi.org/
+#### Offline Installaiton
+- pip whl format： https://pypi.org/
