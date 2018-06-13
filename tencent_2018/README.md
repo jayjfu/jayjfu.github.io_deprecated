@@ -14,3 +14,6 @@ pip --proxy="http://web-proxy.oa.com:8080"
 .tar  
 压缩：tar cvf FileName.tar FileName  
 解压：tar xvf FileName.tar
+
+UnicodeEncodeError-python3-jayfu  
+export PYTHONIOENCODING=utf-8  (default:ANSI_X3.4-1968, alias is ASCII)
