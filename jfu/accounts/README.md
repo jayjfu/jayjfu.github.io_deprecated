@@ -18,7 +18,7 @@
 - jd: 15800730828
 
 #### F
-- Outlook_tencent(include Lock Screen): jayfu
+- outlook_tencent(include Lock Screen): jayfu
 
 #### TBD
 
