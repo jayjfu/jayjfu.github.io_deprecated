@@ -4,7 +4,8 @@
 - arXiv: jfu790900173
 - gmail: jfu790900173@gmail.com
 - bilibili: 15800730828
-- twitter: 790900173@qq.com
+- chrome: jfu790900173@gmail.com
+- twitter: 790900173@qq.com  
 
 - 自如： 15800730828
 
@@ -17,6 +18,7 @@
 - jd: 15800730828
 
 #### F
+- Outlook_tencent(include Lock Screen): jayfu
 
 #### TBD
 
