@@ -5,7 +5,8 @@
 - gmail: jfu790900173@gmail.com
 - bilibili: 15800730828
 - chrome: jfu790900173@gmail.com
-- twitter: 790900173@qq.com  
+- twitter: 790900173@qq.com
+- kaggle: gmail \& jfu790900173 
 
 - 自如： 15800730828
 
