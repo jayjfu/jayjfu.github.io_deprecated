@@ -7,7 +7,7 @@
 - chrome: jfu790900173@gmail.com
 - twitter: 790900173@qq.com
 - kaggle: gmail \& jfu790900173 
-- overleaf: 790900173@qq.com
+- overleaf: 790900173@qq.com  
 
 - 自如： 15800730828
 
