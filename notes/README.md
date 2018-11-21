@@ -6,7 +6,7 @@
 
 #### research
 - papernotes, arxiv-sanity
-- wechat
+- wechat(
 
 #### for beginer
 - cs231n, wildml
