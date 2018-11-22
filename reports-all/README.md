@@ -14,4 +14,4 @@
 - pre_middle_fnlp_6:11:18
 
 ### 18-19
-- intern_tencent新(Tencent summer intern)
+- intern_tencent新 (Tencent summer intern)
