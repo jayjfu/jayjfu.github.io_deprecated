@@ -9,12 +9,10 @@
 - 写论文：Overleaf
 
 #### tools
-- pytorch/text, pytorch/examples, facebookresearch/visdom
+- coding: pytorch/text, pytorch/examples; tensorflow, pytorch(official account)
+- visualize: facebookresearch/visdom, matplotlib
 
-#### coding
-- tensorflow, pytorch(account)
-
-#### research
+#### research(paper)
 - papernotes, arxiv-sanity
 - wechat(机器之心，paperweekly)
 
