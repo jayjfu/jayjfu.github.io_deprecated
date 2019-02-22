@@ -37,6 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.  fdsangk;dsnagkndsakgndsk;agndsa
 
 ### BIO.
+[中文简历2018](https://github.com/jfu790900173/jfu790900173.github.io/blob/master/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%862018.pdf)  
 
 ### TIMELINE.
 
