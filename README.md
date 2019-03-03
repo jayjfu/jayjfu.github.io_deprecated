@@ -1,5 +1,5 @@
 ### BIO.
-[中文简历2018](https://github.com/jfu790900173/jfu790900173.github.io/blob/master/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%862018.pdf)  
+**[中文简历2018](https://github.com/jfu790900173/jfu790900173.github.io/blob/master/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%862018.pdf)**  
 
 ### TIMELINE.
 
