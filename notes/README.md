@@ -1,3 +1,6 @@
+#### 清华大学刘知远：如何写一篇合格的NLP论文
+- https://www.jiqizhixin.com/articles/19031101
+
 #### 顶会deadline
 - https://aideadlin.es/?sub=ML,CV,NLP,RO,SP
 
