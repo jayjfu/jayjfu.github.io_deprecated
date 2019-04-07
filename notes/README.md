@@ -1,3 +1,9 @@
+#### 复旦大学邱锡鹏神经网络与深度学习
+- https://nndl.github.io/
+
+#### 台大李宏毅机器学习公开课2019版
+- https://www.jiqizhixin.com/articles/19031803
+
 #### 清华大学刘知远：如何写一篇合格的NLP论文
 - https://www.jiqizhixin.com/articles/19031101
 
@@ -20,4 +26,4 @@
 - wechat(机器之心，paperweekly)
 
 #### for beginer
-- cs231n, wildml
+- cs231n (http://cs231n.stanford.edu/), wildml
