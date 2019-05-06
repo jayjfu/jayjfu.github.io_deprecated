@@ -1,3 +1,6 @@
+#### tools
+- visualization: [[Plotly](https://plot.ly/)]
+
 #### 复旦大学邱锡鹏神经网络与深度学习
 - https://nndl.github.io/
 
