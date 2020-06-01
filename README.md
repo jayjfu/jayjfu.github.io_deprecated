@@ -1,9 +1,24 @@
+傅健 Fudan CS Master  
+jayjfu@gmail.com
+
 ### BIO.
 [中文简历2018](https://github.com/jayjfu/jayjfu.github.io/blob/master/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%862018.pdf)  
 
+I .. nlp & deep learning, rec/search/ad... 
+
 ### TIMELINE.
+2019-: ...  
+2016-2019:  
+2012-2016: ...  
 
 ### Publications(Mine)
+1. .. 
+
+### Competitions(Mine)
+1. nlp..
+
+### Projects
+1. ... TODO
 
 ### MISC
 social accounts, etc.
@@ -13,6 +28,10 @@ arxiv + kaggle/tianchi + 知乎 + Medium + Quora + ...
 FU.J workshop/ studio?
 
 contact: gmail/facebook/instagram/twitter/linkedin  
+
+
+
+
 
 
 ## Welcome to GitHub Pages
