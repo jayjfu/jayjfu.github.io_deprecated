@@ -8,6 +8,10 @@
 ### MISC
 social accounts, etc.
 
+arxiv + kaggle/tianchi + 知乎 + Medium + Quora + ...
+
+FU.J workshop/ studio?
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jayjfu/jayjfu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
