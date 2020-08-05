@@ -29,6 +29,9 @@ FU.J workshop/ studio?
 
 contact: gmail/facebook/instagram/twitter/linkedin  
 
+### MEDIUM
+medium: https://medium.com/@jayjfu0, TBD 
+
 
 
 
