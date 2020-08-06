@@ -33,8 +33,7 @@ contact: gmail/facebook/instagram/twitter/linkedin
 medium: https://medium.com/@jayjfu0, TBD 
 
 
-
-
+---
 
 
 ## Welcome to GitHub Pages
