@@ -1,5 +1,4 @@
-傅健 Fudan CS Master  
-jayjfu@gmail.com
+傅健, Fudan CS Master, jayjfu@gmail.com
 
 ### BIO.
 [中文简历2018](https://github.com/jayjfu/jayjfu.github.io/blob/master/%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%862018.pdf)  
