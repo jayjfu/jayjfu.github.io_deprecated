@@ -1,4 +1,4 @@
-see https://www.notion.so/Homepage-Blog-CV-1ea896947852456593cb996026feeaee  
+see [Homepage(Blog & CV)](https://www.notion.so/Homepage-Blog-CV-1ea896947852456593cb996026feeaee)  
 will be available soon
 
 傅健, Fudan CS Master, jayjfu@gmail.com
